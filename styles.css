@@ -1,0 +1,23 @@
+html {
+    
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 60px;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
