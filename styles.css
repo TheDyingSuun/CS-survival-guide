@@ -67,3 +67,9 @@ h2 {
     line-height: 2;
 }
 
+.no-bullets{
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+
